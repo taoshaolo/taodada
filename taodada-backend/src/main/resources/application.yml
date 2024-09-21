@@ -105,25 +105,7 @@ knife4j:
         api-rule: package
         api-rule-resources:
           - com.taoshao.taodada.controller
-#knife4j:
-#  enable: true
-#  openapi:
-#    title: Knife4j官方文档
-#    description: "`我是测试`,**你知道吗**
-#    # aaa"
-#    email: xiaoymin@foxmail.com
-#    concat: 八一菜刀
-#    url: https://docs.xiaominfo.com
-#    version: v4.0
-#    license: Apache 2.0
-#    license-url: https://stackoverflow.com/
-#    terms-of-service-url: https://stackoverflow.com/
-#    group:
-#      test1:
-#        group-name: 分组名称
-#        api-rule: package
-#        api-rule-resources:
-#          - com.taoshao.taodada.controller
+
 # AI 配置
 ai:
-  apiKey: 344ea07708c0f986cf7a3763d9109922.a6NBP0T8BsDAIFHT
+  apiKey: xxx
